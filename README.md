@@ -1,5 +1,7 @@
 <h2> Hi, I'm Se7enELk! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"></br>Developer Consultant at <a href="http://www.weli.cn/#/home">WeLi</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+</br>
+<p><em>Developer Consultant at <a href="http://www.weli.cn/#/home">WeLi</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![GitHub Se7enELk](https://img.shields.io/github/followers/Se7enELk?label=follow&style=social)](https://github.com/Se7enELk)
@@ -9,15 +11,10 @@
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  pronouns: "He" | "Him",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Vue, Node, Typescript],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-    coorganizer: "AfroPython",
-    speaker: "Latinity",
-    mentor: "EducaTRANSforma"
-  },
 }
 ```
 
